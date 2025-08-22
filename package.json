@@ -1,0 +1,14 @@
+{
+  "name": "hydra-abuse-detector",
+  "version": "1.0.0",
+  "description": "Automated container abuse detection and response script using Hydra API.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "YourName",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.8"
+  }
+}

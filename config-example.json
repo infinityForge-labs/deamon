@@ -1,0 +1,13 @@
+{
+  "hydra": {
+    "url": "http://your-hydra-url.com",
+    "key": "your-hydra-api-key"
+  },
+  "node": {
+    "url": "http://your-node-url.com",
+    "key": "your-node-api-key"
+  },
+  "discord": {
+    "webhook": "https://discord.com/api/webhooks/your-webhook-id/your-webhook-token"
+  }
+}
