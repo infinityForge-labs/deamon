@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HydraLabs-beta/sedar/main/sedarbanner2.png" alt="SedarBanner">
+  <img src="
+  ">
 </p>
 
 <h1 align="center">Introducing Sedar</h1>
